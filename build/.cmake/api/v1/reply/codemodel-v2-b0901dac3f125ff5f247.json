@@ -1,0 +1,221 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_plugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_plugin-Debug-f978b741d55dbfb8f14d.json",
+					"name" : "lidar_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pid1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pid1-Debug-0951584bfb08539d6778.json",
+					"name" : "pid1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pid2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pid2-Debug-982dc6789a7d182b6084.json",
+					"name" : "pid2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pos-Debug-294e289c71e71eaeff44.json",
+					"name" : "pos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roscpp_generate_messages_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roscpp_generate_messages_cpp-Debug-87f099e6be1341ff5342.json",
+					"name" : "roscpp_generate_messages_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roscpp_generate_messages_eus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roscpp_generate_messages_eus-Debug-cc7c38a755acffc02b85.json",
+					"name" : "roscpp_generate_messages_eus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roscpp_generate_messages_lisp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roscpp_generate_messages_lisp-Debug-60b8b6d3bdf96d7dcd83.json",
+					"name" : "roscpp_generate_messages_lisp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roscpp_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roscpp_generate_messages_nodejs-Debug-cae709e2621688c699fd.json",
+					"name" : "roscpp_generate_messages_nodejs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roscpp_generate_messages_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roscpp_generate_messages_py-Debug-c9fa75eb093d668cc7ff.json",
+					"name" : "roscpp_generate_messages_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosgraph_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosgraph_msgs_generate_messages_cpp-Debug-5b38b7566f9a6e3a21bc.json",
+					"name" : "rosgraph_msgs_generate_messages_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosgraph_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosgraph_msgs_generate_messages_eus-Debug-3427157ff1938582ab34.json",
+					"name" : "rosgraph_msgs_generate_messages_eus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosgraph_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosgraph_msgs_generate_messages_lisp-Debug-04e28d09e46e34ae2556.json",
+					"name" : "rosgraph_msgs_generate_messages_lisp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosgraph_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosgraph_msgs_generate_messages_nodejs-Debug-afa12f2f6695e206bdbf.json",
+					"name" : "rosgraph_msgs_generate_messages_nodejs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosgraph_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosgraph_msgs_generate_messages_py-Debug-12a9431f3c479b246519.json",
+					"name" : "rosgraph_msgs_generate_messages_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_msgs_generate_messages_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_msgs_generate_messages_cpp-Debug-8ae3c28898bbad64099b.json",
+					"name" : "std_msgs_generate_messages_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_msgs_generate_messages_eus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_msgs_generate_messages_eus-Debug-3a797f549fceda3beb36.json",
+					"name" : "std_msgs_generate_messages_eus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_msgs_generate_messages_lisp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_msgs_generate_messages_lisp-Debug-932bef8ef956492456f4.json",
+					"name" : "std_msgs_generate_messages_lisp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_msgs_generate_messages_nodejs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_msgs_generate_messages_nodejs-Debug-81969a483db27c1ec081.json",
+					"name" : "std_msgs_generate_messages_nodejs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_msgs_generate_messages_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_msgs_generate_messages_py-Debug-2368e01d09d16860de88.json",
+					"name" : "std_msgs_generate_messages_py",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/berenice/lidar_plugin/build",
+		"source" : "/home/berenice/lidar_plugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

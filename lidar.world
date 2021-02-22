@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <world name="default">
+    <!-- A global light source -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <!-- A ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- A testing model that includes the Velodyne sensor model -->
+    <model name="my_lidar">
+      <include>
+        <uri>model://RPLiDAR</uri>
+      </include>
+
+      <!-- Attach the plugin to this model -->
+      <plugin name="lidar_control" filename="/home/berenice/lidar_plugin/build/liblidar_plugin.so">
+      <position1>0.0</position1>
+      <position2>0.0</position2>
+      </plugin>
+    </model>
+
+  </world>
+</sdf>
